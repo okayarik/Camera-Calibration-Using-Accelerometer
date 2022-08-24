@@ -5,4 +5,4 @@ Recent mobile devices are mostly integrated with camera and accelerometer sensor
 - Seniha Esen Yüksel
 ## References
 The camera calibration method in the notebook are based on the following paper. Please cite the paper when using this notebook in an academic publication.
-1. O. Arık and S. E. Yuksel, “Mobile Device Camera Calibration Using Building Images and Onboard Accelerometer,” IEEE Transactions on Instrumentation and Measurement
+- O. Arık and S. E. Yuksel, “Mobile Device Camera Calibration Using Building Images and Onboard Accelerometer,” IEEE Transactions on Instrumentation and Measurement
