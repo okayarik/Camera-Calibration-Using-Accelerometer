@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     38466,       1108]
-NotebookOptionsPosition[     35283,       1005]
-NotebookOutlinePosition[     35629,       1020]
-CellTagsIndexPosition[     35586,       1017]
+NotebookDataLength[     38493,       1109]
+NotebookOptionsPosition[     35310,       1006]
+NotebookOutlinePosition[     35656,       1021]
+CellTagsIndexPosition[     35613,       1018]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -501,9 +501,10 @@ Cell[BoxData[{
 
 Cell[CellGroupData[{
 
-Cell["Estimation of Projection Matrix", "Section",
+Cell["Estimation of Projection Matrix ", "Section",
  CellChangeTimes->{
-  3.8702616443565454`*^9, {3.8702630259811087`*^9, 3.8702630293425536`*^9}}],
+  3.8702616443565454`*^9, {3.8702630259811087`*^9, 3.8702630293425536`*^9}, 
+   3.870318940337553*^9}],
 
 Cell[TextData[{
  "Projection Matrix ",
@@ -1069,43 +1070,43 @@ Cell[16562, 450, 212, 4, 29, "Item"],
 Cell[16777, 456, 1175, 42, 96, "Input"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[17989, 503, 147, 2, 63, "Section"],
-Cell[18139, 507, 529, 11, 31, "Text"],
-Cell[18671, 520, 124, 1, 29, "Item"],
-Cell[18798, 523, 330, 9, 31, "Input"],
-Cell[19131, 534, 302, 6, 29, "Item"],
-Cell[19436, 542, 576, 18, 31, "Input"],
-Cell[20015, 562, 475, 14, 30, "Item"],
-Cell[20493, 578, 208, 5, 31, "Input"],
+Cell[17989, 503, 174, 3, 63, "Section"],
+Cell[18166, 508, 529, 11, 31, "Text"],
+Cell[18698, 521, 124, 1, 29, "Item"],
+Cell[18825, 524, 330, 9, 31, "Input"],
+Cell[19158, 535, 302, 6, 29, "Item"],
+Cell[19463, 543, 576, 18, 31, "Input"],
+Cell[20042, 563, 475, 14, 30, "Item"],
+Cell[20520, 579, 208, 5, 31, "Input"],
 Cell[CellGroupData[{
-Cell[20726, 587, 423, 8, 30, "Item"],
-Cell[21152, 597, 171, 2, 25, "Subitem"]
+Cell[20753, 588, 423, 8, 30, "Item"],
+Cell[21179, 598, 171, 2, 25, "Subitem"]
 }, Open  ]],
-Cell[21338, 602, 522, 14, 31, "Input"],
-Cell[21863, 618, 93, 1, 25, "Subitem"],
-Cell[21959, 621, 2109, 54, 112, "Input"],
-Cell[24071, 677, 247, 5, 25, "Subitem"],
+Cell[21365, 603, 522, 14, 31, "Input"],
+Cell[21890, 619, 93, 1, 25, "Subitem"],
+Cell[21986, 622, 2109, 54, 112, "Input"],
+Cell[24098, 678, 247, 5, 25, "Subitem"],
 Cell[CellGroupData[{
-Cell[24343, 686, 1343, 38, 88, "Input"],
-Cell[25689, 726, 702, 16, 69, "Output"]
+Cell[24370, 687, 1343, 38, 88, "Input"],
+Cell[25716, 727, 702, 16, 69, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[26428, 747, 278, 5, 29, "Item"],
-Cell[26709, 754, 171, 2, 25, "Subitem"]
+Cell[26455, 748, 278, 5, 29, "Item"],
+Cell[26736, 755, 171, 2, 25, "Subitem"]
 }, Open  ]],
-Cell[26895, 759, 655, 16, 31, "Input"],
-Cell[27553, 777, 95, 1, 25, "Subitem"],
-Cell[27651, 780, 2231, 60, 112, "Input"],
-Cell[29885, 842, 180, 2, 25, "Subitem"],
+Cell[26922, 760, 655, 16, 31, "Input"],
+Cell[27580, 778, 95, 1, 25, "Subitem"],
+Cell[27678, 781, 2231, 60, 112, "Input"],
+Cell[29912, 843, 180, 2, 25, "Subitem"],
 Cell[CellGroupData[{
-Cell[30090, 848, 1615, 48, 120, "Input"],
-Cell[31708, 898, 635, 14, 69, "Output"]
+Cell[30117, 849, 1615, 48, 120, "Input"],
+Cell[31735, 899, 635, 14, 69, "Output"]
 }, Open  ]],
-Cell[32358, 915, 130, 1, 25, "Subitem"],
-Cell[32491, 918, 274, 9, 57, "Input"],
+Cell[32385, 916, 130, 1, 25, "Subitem"],
+Cell[32518, 919, 274, 9, 57, "Input"],
 Cell[CellGroupData[{
-Cell[32790, 931, 1830, 52, 72, "Input"],
-Cell[34623, 985, 608, 14, 69, "Output"]
+Cell[32817, 932, 1830, 52, 72, "Input"],
+Cell[34650, 986, 608, 14, 69, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
